@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+pillow
+pytest
+streamlit
+matplotlib
+torch
+torchvision
+tqdm

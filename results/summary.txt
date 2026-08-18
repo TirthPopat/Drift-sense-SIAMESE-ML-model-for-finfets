@@ -1,0 +1,12 @@
+n_samples: 200
+mean_dist: 64.93495570519971
+median_dist: 18.665999569485436
+std_dist: 118.35066262652985
+max_dist: 784.2275549392755
+min_dist: 1.0050935904168838
+pass_5px: 0.265
+pass_4px: 0.21
+pass_2px: 0.055
+pass_1px: 0.0
+mean_time_ms: 5.6314098834991455
+total_time_s: 1.126281976699829
