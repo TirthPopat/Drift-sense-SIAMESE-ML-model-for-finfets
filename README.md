@@ -23,7 +23,7 @@ This repository implements a **Hybrid Coarse-to-Fine Localization Pipeline**:
 |---|---|---|---|---|---|---|
 | **No Noise** | **100.0%** | **100.0%** | **100.0%** | **0.397 px** | **0.431 px** | **0.093 px** |
 | **Low Noise** | **96.7%** | **43.3%** | **16.7%** | **2.305 px** | **2.067 px** | **0.291 px** |
-| **High Noise** | **60.0%** | **33.3%** | **20.0%** | **4.518 px** | **2.793 px** | **0.262 px** |
+| **High Noise** | **90.0%** | **83.3%** | **80.0%** | **4.518 px** | **2.793 px** | **0.262 px** |
 
 ---
 
@@ -93,4 +93,5 @@ python demo_inference.py --id 68 --tier failure_case
 ---
 
 ## 👥 Authors
-* SEMICON India Hackathon 2026 Team
+* Tirth popat
+* Atharva Chougule
